@@ -9,12 +9,12 @@
 import UIKit
 
 class ViewController: UIViewController {
-var dulo = 10
     override func viewDidLoad() {
         super.viewDidLoad()
     }
 
 
+    
     
 
 }
